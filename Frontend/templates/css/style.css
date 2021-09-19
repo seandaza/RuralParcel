@@ -1,0 +1,45 @@
+#header{
+    background-color:whitesmoke;
+}
+
+#filter{
+    width: 400px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}
+
+body{
+    margin: 0;
+}
+
+/*Tiles Container*/
+#container {
+    background: grey;
+    height: 350px;
+    /*IMPORTANTE*/
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/*Tile*/
+#myMap{
+    border: 5px outset black;
+    justify-content: center;
+    display: flex;
+    width: 90%;
+}
+
+#grid{
+    width: 93%;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+}
+
+.card{
+    width: 18rem;
+    height:20rem;
+}
+

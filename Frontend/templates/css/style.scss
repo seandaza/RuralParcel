@@ -1,0 +1,36 @@
+$listcolor:#391;
+ul {
+    font-size: 14px;
+    color: $listcolor;
+}
+
+ol {
+    font-size: 18px;
+    color: $listcolor;
+}
+
+
+
+$color: #456;
+.navbar {
+  background-color: $color;
+}
+.footer {
+  border: 1px solid $color;
+}
+
+nav {
+  ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+  li {
+    display: inline-block;
+  }
+  a {
+    display: block;
+    padding: 6px 12px;
+    text-decoration: none;
+  }
+}

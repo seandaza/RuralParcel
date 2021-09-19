@@ -1,0 +1,1 @@
+RuralParcel es una pagina que pretende permitir registros de Tierras del Huila junto a sus descripciones de fertilidad e historial de cultivos bajo un concepto de marketplace.
