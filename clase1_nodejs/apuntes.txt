@@ -1,0 +1,17 @@
+-------CREAR ARCHIVO DE CONFIGURACIÓN NODEJS------
+npm init -y
+
+-----------INSTALAR EXPRESS-----
+npm install express
+
+----INSTALAR NODEMON-----
+npm install nodemon
+
+-------MONGODB------
+https://docs.mongodb.com/manual/installation/
+
+
+
+------INSTALAR MONGOOSE EN EL PROYECTO-----
+npm install mongoose
+npm run dev
